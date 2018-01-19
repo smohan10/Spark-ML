@@ -1,4 +1,4 @@
-This repository contains Machine Learning algorithms implemented using PySpark.
+#### Machine Learning algorithms implemented using PySpark.
 
 The repository consists of the following folders:
 1. Clustering
